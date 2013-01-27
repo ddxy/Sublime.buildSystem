@@ -1,4 +1,4 @@
-Sublime build System for C/C++ and working Input
+Sublime build System for C/C++ and working Input (Only Windows so far)
 ===================
 This is my Sublime build System for C and C++. It seems like Sublime console doesnt support input arguments, 
 so the program will start in a windows console.
