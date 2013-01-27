@@ -16,3 +16,6 @@ Installation steps:<br \>
 
 Additional Stuff:
 You can write an Issue if you have some questions or improvements to this method :)
+
+You need to have MinGW installed to compile c++ and c programs on windows.
+(english tutorial: http://www.mingw.org/wiki/Getting_Started german tutorial: http://stefanjahn.de/cpp:windows:compiler_mingw_installieren)
