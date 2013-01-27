@@ -1,6 +1,7 @@
 Sublim build System for C/C++ and working Input
 ===================
-This is my Sublime build System for C and C++. It seems like Sublime console doesnt support input arguments, so the program will start in a windows console.
+This is my Sublime build System for C and C++. It seems like Sublime console doesnt support input arguments, 
+so the program will start in a windows console.
 <br \><br \>
 Function:<br \>
 c.sublime-build calls the loadBuilder.bat and this passes the arguments to the builder.bat which compiles and runs the code. 
